@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aange\\Desktop\\Public-WebDev\\Public-WebDev\\bank-transactions-app\\jQueryAjaxCRUDinASPNET.csproj": {}
+    "C:\\Users\\aange\\Desktop\\Public-WebDev\\Public-WebDev\\notes-app\\backend_web_api\\Notes.db\\Notes.db.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aange\\Desktop\\Public-WebDev\\Public-WebDev\\bank-transactions-app\\jQueryAjaxCRUDinASPNET.csproj": {
+    "C:\\Users\\aange\\Desktop\\Public-WebDev\\Public-WebDev\\notes-app\\backend_web_api\\Notes.db\\Notes.db.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aange\\Desktop\\Public-WebDev\\Public-WebDev\\bank-transactions-app\\jQueryAjaxCRUDinASPNET.csproj",
-        "projectName": "jQueryAjaxCRUDinASPNET",
-        "projectPath": "C:\\Users\\aange\\Desktop\\Public-WebDev\\Public-WebDev\\bank-transactions-app\\jQueryAjaxCRUDinASPNET.csproj",
+        "projectUniqueName": "C:\\Users\\aange\\Desktop\\Public-WebDev\\Public-WebDev\\notes-app\\backend_web_api\\Notes.db\\Notes.db.csproj",
+        "projectName": "Notes.db",
+        "projectPath": "C:\\Users\\aange\\Desktop\\Public-WebDev\\Public-WebDev\\notes-app\\backend_web_api\\Notes.db\\Notes.db.csproj",
         "packagesPath": "C:\\Users\\aange\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aange\\Desktop\\Public-WebDev\\Public-WebDev\\bank-transactions-app\\obj\\",
+        "outputPath": "C:\\Users\\aange\\Desktop\\Public-WebDev\\Public-WebDev\\notes-app\\backend_web_api\\Notes.db\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -49,19 +49,11 @@
               "target": "Package",
               "version": "[5.0.1, )"
             },
-            "Microsoft.EntityFrameworkCore.Sqlite": {
-              "target": "Package",
-              "version": "[3.1.10, )"
-            },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
               "version": "[5.0.1, )"
-            },
-            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
-              "target": "Package",
-              "version": "[3.1.4, )"
             }
           },
           "imports": [
@@ -75,9 +67,6 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
