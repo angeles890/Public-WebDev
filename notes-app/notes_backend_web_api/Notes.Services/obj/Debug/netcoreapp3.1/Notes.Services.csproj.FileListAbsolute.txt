@@ -1,0 +1,12 @@
+C:\Users\aange\Desktop\Public-WebDev\Public-WebDev\notes-app\notes_backend_web_api\Notes.Services\bin\Debug\netcoreapp3.1\Notes.Services.deps.json
+C:\Users\aange\Desktop\Public-WebDev\Public-WebDev\notes-app\notes_backend_web_api\Notes.Services\bin\Debug\netcoreapp3.1\Notes.Services.dll
+C:\Users\aange\Desktop\Public-WebDev\Public-WebDev\notes-app\notes_backend_web_api\Notes.Services\bin\Debug\netcoreapp3.1\Notes.Services.pdb
+C:\Users\aange\Desktop\Public-WebDev\Public-WebDev\notes-app\notes_backend_web_api\Notes.Services\bin\Debug\netcoreapp3.1\Notes.db.dll
+C:\Users\aange\Desktop\Public-WebDev\Public-WebDev\notes-app\notes_backend_web_api\Notes.Services\bin\Debug\netcoreapp3.1\Notes.db.pdb
+C:\Users\aange\Desktop\Public-WebDev\Public-WebDev\notes-app\notes_backend_web_api\Notes.Services\obj\Debug\netcoreapp3.1\Notes.Services.csprojAssemblyReference.cache
+C:\Users\aange\Desktop\Public-WebDev\Public-WebDev\notes-app\notes_backend_web_api\Notes.Services\obj\Debug\netcoreapp3.1\Notes.Services.AssemblyInfoInputs.cache
+C:\Users\aange\Desktop\Public-WebDev\Public-WebDev\notes-app\notes_backend_web_api\Notes.Services\obj\Debug\netcoreapp3.1\Notes.Services.AssemblyInfo.cs
+C:\Users\aange\Desktop\Public-WebDev\Public-WebDev\notes-app\notes_backend_web_api\Notes.Services\obj\Debug\netcoreapp3.1\Notes.Services.csproj.CoreCompileInputs.cache
+C:\Users\aange\Desktop\Public-WebDev\Public-WebDev\notes-app\notes_backend_web_api\Notes.Services\obj\Debug\netcoreapp3.1\Notes.Services.csproj.CopyComplete
+C:\Users\aange\Desktop\Public-WebDev\Public-WebDev\notes-app\notes_backend_web_api\Notes.Services\obj\Debug\netcoreapp3.1\Notes.Services.dll
+C:\Users\aange\Desktop\Public-WebDev\Public-WebDev\notes-app\notes_backend_web_api\Notes.Services\obj\Debug\netcoreapp3.1\Notes.Services.pdb
